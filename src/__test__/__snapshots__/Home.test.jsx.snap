@@ -108,6 +108,12 @@ exports[`Testing Home Render the Home page, should match to the snapshot 1`] = `
     >
       STATS BY COMPANY
     </p>
+    <input
+      className="input"
+      onChange={[Function]}
+      placeholder="Search by company"
+      type="text"
+    />
     <section
       className="company-section"
     />
