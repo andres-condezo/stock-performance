@@ -11,7 +11,7 @@ const Header = () => (
         <ul className="nav__ul">
           <li className="ul__back">
             <Link
-              to="/"
+              to="/stock-performance"
             >
               <IoIosArrowBack />
             </Link>
@@ -19,7 +19,7 @@ const Header = () => (
           <li className="ul__logo">
             <Link
               className="logo"
-              to="/"
+              to="/stock-performance"
             >
               <h1 className="title">Stock Performance</h1>
             </Link>

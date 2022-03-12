@@ -39,7 +39,7 @@
 
 ## Live Demo
 
-[Stock Performace App Live Demo Link](https://stock-performance-app.netlify.app)
+[Stock Performace App Live Demo Link](https://andres-condezo.github.io/stock-performance/)
 
 ## Getting Started
 

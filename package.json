@@ -1,4 +1,5 @@
 {
+  "homepage": "http://andres-condezo.github.io/stock-performance",
   "name": "stock-market-quote",
   "version": "0.1.0",
   "private": true,
@@ -23,6 +24,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -56,6 +58,7 @@
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-react": "^7.29.3",
     "eslint-plugin-react-hooks": "^4.3.0",
+    "gh-pages": "^3.2.3",
     "react-test-renderer": "^17.0.2",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
