@@ -1,0 +1,94 @@
+.company-item {
+  color: #fff;
+
+  .company-subtitle {
+    background-color: #304b7e;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.4rem;
+    padding: 0.4rem;
+  }
+
+  .company-header {
+    display: flex;
+    align-items: center;
+    padding: 2rem 3rem;
+    background-color: #578ef4;
+
+    .title-icon {
+      width: 50%;
+      text-align: right;
+      margin-right: 2rem;
+
+      .icon {
+        font-size: 12rem;
+        color: #304b7e;
+      }
+    }
+
+    h1 {
+      width: 50%;
+      padding-right: 4rem;
+      font-size: 2rem;
+      font-weight: 900;
+    }
+  }
+
+  .company-section {
+    display: flex;
+    flex-wrap: wrap;
+
+    .company-container {
+      width: 50%;
+      padding: 2rem;
+
+      h2 {
+        font-size: 1.4rem;
+        font-weight: 900;
+      }
+
+      .company-icons {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 1rem;
+
+        .stats-icon {
+          color: #304b7e;
+          font-size: 4rem;
+        }
+
+        a {
+          all: unset;
+          font-size: 2rem;
+          cursor: pointer;
+
+          &:hover {
+            color: orange;
+          }
+
+          &:active {
+            color: #304b7e;
+          }
+        }
+      }
+
+      .company-info {
+        text-align: right;
+        font-size: 1.2rem;
+
+        p {
+          color: #ddd;
+          margin-top: 0.4rem;
+        }
+      }
+    }
+
+    .company-container:nth-child(4n+1) {
+      background-color: #4369b2;
+    }
+
+    .company-container:nth-child(4n+4) {
+      background-color: #4369b2;
+    }
+  }
+}
