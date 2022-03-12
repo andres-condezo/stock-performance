@@ -21,7 +21,7 @@ body {
 
 #root {
   background: #4e7acc;
-  box-shadow: 3px 8px 10px 0px rgba(0,0,0,0.5);
+  box-shadow: 3px 8px 10px 0 rgba(0, 0, 0, 0.5);
 }
 
 span {
