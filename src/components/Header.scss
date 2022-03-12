@@ -1,0 +1,70 @@
+header {
+  position: sticky;
+  top: 0;
+  backdrop-filter: blur(4rem);
+  background: #4e7acc;
+
+  nav .nav__ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    list-style: none;
+    height: 6rem;
+    padding: 0 2rem;
+
+    a {
+      all: unset;
+      font-size: 1.2rem;
+    }
+
+    .ul__back {
+      a {
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+
+        svg {
+          font-size: 3rem;
+        }
+
+        &:hover {
+          color: orange;
+        }
+
+        &:active {
+          color: #304b7e;
+        }
+      }
+    }
+
+    .ul__logo {
+      font-size: 1rem;
+      cursor: pointer;
+
+      &:hover {
+        color: orange;
+      }
+
+      &:active {
+        color: #304b7e;
+      }
+    }
+
+    .ul__icons {
+      button {
+        all: unset;
+        cursor: pointer;
+        margin-right: 1rem;
+
+        &:hover {
+          color: orange;
+        }
+
+        &:active {
+          color: #304b7e;
+        }
+      }
+    }
+  }
+}
