@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Details Render the Details page, should match to the snapshot 1`] = `
+<section
+  className="companies-container"
+/>
+`;
