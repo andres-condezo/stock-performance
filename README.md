@@ -2,7 +2,7 @@
 
 # Stock Performace App
 
->Stock performance is a web application to check out performance by company to see which one performs the best, based on an external API provided by Financial Modeling Prep. Built with Ract, Redux, and SCSS.
+>Stock performance is a web application to check out performance by company to see which one performs the best, based on an external API provided by Financial Modeling Prep. Built with React, Redux, and SCSS.
 
 # Screenshots:
 
