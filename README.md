@@ -14,11 +14,6 @@
 
 ![screenshot](./src/assets/screenshot-desktop.png)
 
-# Video demo:
-
-https://loom.com/share/0319c1098c374d319af0fcded28111e6
-
-
 ## Built With
 
 ### - Major languages:
