@@ -1,0 +1,16 @@
+
+ 1 What's the output?
++true;
+!'Lydia';
+
+A: 1 and false
+B: false and NaN
+C: false and false
+
+2 What are Pure Components?
+
+3  Is Ruby a strongly typed or a weakly typed language?
+
+4 What is ActiveRecord?
+
+5 Which SQL statement is used to return only different values?
